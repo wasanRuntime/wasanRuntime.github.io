@@ -1,5 +1,5 @@
 # Andrew Simiyu
-*Junior Data Scientist/Analyst || Junior Software Enginner*
+*Junior Data Scientist/Analyst* | *Junior Software Enginner*
 
 
 * *[GitHub](https://github.com/wasanRuntime)*
