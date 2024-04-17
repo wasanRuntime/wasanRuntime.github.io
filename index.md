@@ -1,7 +1,7 @@
 # Andrew Simiyu
 *Junior Data Scientist/Analyst* | *Junior Software Enginner*
-![]()
-![Mississippi Delta](https://deltax.jpl.nasa.gov/img/delta-google-earth.jpg)
+
+<img src="images/data-science.jpg" alt="data science image" width="65%">
 
 ### Contact Info
 * *[GitHub](https://github.com/wasanRuntime)*
