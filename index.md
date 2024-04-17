@@ -4,9 +4,10 @@
 <img src="images/data-science.jpg" alt="data science image" width="65%">
 
 ### Contact Info
+* *[Email](mailto:andrewwasan@gmail.com)*: andrewwasan@gmail.com
 * *[GitHub](https://github.com/wasanRuntime)*
 * *[LinkedIn](https://www.linkedin.com/in/andrew-s-381795180)*
-* *[Email](mailto:andrewwasan@gmail.com)*
+
 
 
 ### Education Background
@@ -20,7 +21,7 @@
   - Major: Backend Engineering
 
 - **Short Course in Environmental Data Science**  
-  *University of Colorado*
+  *ESIIL University of Colorado*
 
 - **Data Analysis Degree Program**  
   *Turing College*
