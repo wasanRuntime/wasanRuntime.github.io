@@ -22,6 +22,8 @@
 
 - **Short Course in Environmental Data Science**  
   *ESIIL University of Colorado*
+- **Turing College**  (*currently doing*)
+  *Data Analysis*
 
 - **Data Analysis Degree Program**  
   *Turing College*
