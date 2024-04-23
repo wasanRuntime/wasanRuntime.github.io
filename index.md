@@ -1,5 +1,5 @@
 # Andrew Simiyu
-*Junior Data Scientist/Analyst* | *Junior Software Enginner*
+*Junior Data Scientist/Analyst* | *Junior Software Engineer*
 
 <img src="images/data-science.jpg" alt="data science image" width="65%">
 
@@ -37,3 +37,4 @@
 > I'm expanding my skills with courses in *Environmental Data Science* at **University of Colorado** and *Data Analysis* at **Turing College**.
 > Passionate about leveraging technology to innovate and solve real-world problems, I'm eager to contribute to impactful projects. Outside of work,
 > I enjoy coding, exploring nature, and discussing tech trends.
+<embed type="text/html" src="images/riara.html" width="600" height="600">
