@@ -28,6 +28,14 @@
 ### Work Experience
 - **Data Scientist/Data Analyst**  
   *Kenya Revenue Authority*
+
+## 📚 Projects
+
+**Environmental Data Science Innovation and Inclusion Lab (ESIIL) Short Course**
+
+- 🌍[Project 1: Accessing NCEI-NOAA Data Using API, An Open Reproducible Science!](md/madison_timeseries.md) 📡
+- 🌍[Project 2: Accessing MODIS Spatial Data and Analyzing Vegetation Conditions](md/vegetation.md)📡
+  
   
 ### Exiting Things About me
 
